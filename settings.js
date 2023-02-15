@@ -22,9 +22,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['254114035678'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Gabby md ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -32,15 +32,15 @@ global.INBOX_BLOCK =  'off'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
-global.ANTI_BADWORD =  'true'
+global.ANTI_BADWORD =  'false'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'Gabby md' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'Gabby' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'Gabby md' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_Gabby_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -53,7 +53,7 @@ global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
+global.BUTTON1_URL = 'https://github.com/Gabrieljerad/QueenNilu'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
 //👇 Your Add Massage 
@@ -61,7 +61,7 @@ global.ADD_MSG = '*✅ Success add Group*'
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇️ chilax kiasi...```' 
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
@@ -69,7 +69,7 @@ global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Nairobi'
 //👇 Removebg Api key
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["254114035678"]
 
 
 
@@ -105,9 +105,9 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['254114035678'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['254114035678'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '_Gabby_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
@@ -115,9 +115,9 @@ global.sp = '🔵'
 
 global.mess = {
     success: '✅ Done!',
-    admin: '*Only admins can use this command !*',
-    botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
+    admin: '*hii command ni ya admins pekee !*',
+    botAdmin: '*hadi niekwe admin !*',
+    owner: '*Sorry, this command is only for darling Gabby !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
